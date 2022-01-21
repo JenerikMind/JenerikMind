@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @JenerikMind
-- 👀 I’m interested in node.js projects and web development
-- 🌱 I’m currently learning full stack development and systems
+- 👋 Hi, I’m John!
+- 👀 I’m interested in full stack development
 - 💞️ I’m looking to collaborate on open source back end development
 - 📫 I can be reached at johnmitre@yahoo.com
 
